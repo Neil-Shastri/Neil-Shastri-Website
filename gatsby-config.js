@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Neil Shastri',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Neil Shastri is a student at the University of Illinois studying Computer Science.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    image: '/websitepic.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@shastri_neil',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
